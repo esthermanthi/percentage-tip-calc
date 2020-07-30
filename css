@@ -1,0 +1,13 @@
+#results {
+         display:none;
+       }
+ title{
+       	color:red;
+       	font-weight: bold;
+       }
+       h{
+       	color:Black;
+       }
+body{
+    background-color:pink;
+}
